@@ -11,7 +11,7 @@ import Firebase
 
 class QRCodeGeneratorController: UIViewController, UITextFieldDelegate{
 
-
+    //testing comment
     //For firebase
     var databaseURL: String = "https://finhack2017.firebaseio.com/"
     var qrcodeImage: CIImage!
